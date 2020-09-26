@@ -1,0 +1,6 @@
+Aplicatia StackOverflow are la baza o functionalitate de tipul forum unde se pot pune intrebari si raspunsuri tehnice la diferite probleme.
+Functionalitati: 
+1. Creare cont personal.
+2. Postarea unei intrebari.
+3. Postarea unui raspuns la o anumita problema.
+4. Votarea raspunsului cel mai bun.
